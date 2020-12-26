@@ -1,5 +1,7 @@
 # 全球新冠肺炎疫情大数据可视化 / COVID-19 Dashboard
 
+Scrapy + MySQL + Spark + Flask + Google Charts
+
 ## 部署方式 / Deployment
 
 - 运行 covid.sql 生成数据库以及相应表
